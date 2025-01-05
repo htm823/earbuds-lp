@@ -16,4 +16,4 @@
 ## 使い方
 1. このリポジトリをクローンしてください。
    ```bash
-   git clone [https://github.com/htm823/earbuds-lp.git](https://github.com/htm823/earbuds-lp.git)
+   git clone https://github.com/htm823/earbuds-lp.git
