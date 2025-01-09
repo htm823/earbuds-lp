@@ -11,7 +11,7 @@
 ## 開発目的
 * HTML、CSS（SCSS）、Bootstrap学習の成果物として作成しました。
 * 学習言語のアウトプットを目的にしています。
-* freeCodeCampのResposive Web Design CertificationカリキュラムにあるProduct Landing Page (Certification Project)をもとにしています。
+* freeCodeCampのResponsive Web Design CertificationカリキュラムにあるProduct Landing Page (Certification Project)をもとにしています。
 
 ## 使い方
 1. このリポジトリをクローンしてください。
